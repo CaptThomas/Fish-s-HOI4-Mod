@@ -419,6 +419,11 @@ if = {
 1939.1.1 = {
 	if = {
 		limit = { not = { has_dlc = "Man the Guns" } }
+		add_state_core = 154
+		add_state_core = 43
+		add_state_core = 155
+		add_state_core = 73
+		add_state_core = 664
 		transfer_state = 154
 		transfer_state = 43
 		transfer_state = 155
@@ -433,6 +438,11 @@ if = {
 	}
 	if = {
 		limit = { has_dlc = "Man the Guns" }
+		add_state_core = 154
+		add_state_core = 43
+		add_state_core = 155
+		add_state_core = 73
+		add_state_core = 664
 		transfer_state = 154
 		transfer_state = 43
 		transfer_state = 155
@@ -446,6 +456,11 @@ if = {
 	}
 }
 1936.1.1 = {
+		add_state_core = 154
+		add_state_core = 43
+		add_state_core = 155
+		add_state_core = 73
+		add_state_core = 664
 		transfer_state = 154
 		transfer_state = 43
 		transfer_state = 155
