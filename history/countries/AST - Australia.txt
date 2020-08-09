@@ -1,4 +1,4 @@
-﻿capital = 285
+capital = 285
 
 oob = "AST_1936"
 set_stability = 0.8
@@ -499,4 +499,22 @@ if = {
 	}
 	add_state_core = 284
 	add_state_core = 723
+	add_state_core = 726
+	transfer_state = 284
+	transfer_state = 723
+	transfer_state = 726
+	set_state_owner = 284
+	set_state_owner = 723
+	set_state_owner = 726
+}
+1936.1.1 = {
+	add_state_core = 284
+	add_state_core = 723
+	add_state_core = 726
+	transfer_state = 284
+	transfer_state = 723
+	transfer_state = 726
+	set_state_owner = 284
+	set_state_owner = 723
+	set_state_owner = 726
 }
